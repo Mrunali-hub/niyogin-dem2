@@ -19,5 +19,8 @@ export default defineNuxtConfig({
       '/contact',  // Add your routes here
     ],
   },
+  router: {
+    base: 'mrunali-hub.github.io/niyogin-dem2/', // Replace 'repository-name' with your GitHub repository name
+  },
   
 })
